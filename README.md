@@ -6,7 +6,7 @@
 
 1. Click on the [Google Colab Link](https://colab.research.google.com/drive/17N0gQ9FjhaTSPKXqTvw0Gnm4jfS14t3F?usp=sharing) to open the notebook.
 
-2. Once the notebook is open, go through each cell one by one and execute them by clicking on the play button (▶️) next to each cell.
+2. Once the notebook is open, go through each cell one by one and execute them by clicking on the play button next to each cell.
 
 3. Make sure to execute the cells in sequential order, as some cells may depend on variables or functions defined in previous cells.
 
